@@ -9,7 +9,7 @@ server.use(express.json());
 server.use(cors());
 
 server.get('/', (req, res) => {
-  res.send("It's alive!");
+  res.send("It's alive! Muuhahaaa!");
 });
 
 module.exports = server;
