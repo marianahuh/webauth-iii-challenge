@@ -25,7 +25,7 @@ server.get('/token', (req, res) => {
     username: 'mhuh',
     favoriteDay: 'Holiday'
   };
-  const secret = 'thisisasecret';
+  const secret = 'thesecret';
   const options = {
     expiresIn: '1h'
   };
