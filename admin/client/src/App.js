@@ -21,7 +21,7 @@ class App extends React.Component {
             <NavLink to='/login'>Login</NavLink>
           </li>
           <li>
-            <NavLink to='/signup'>Register</NavLink>
+            <NavLink to='/register'>Register</NavLink>
           </li>
           <li>
             <NavLink to='/users'>Users</NavLink>
